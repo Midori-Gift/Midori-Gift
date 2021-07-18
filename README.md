@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me  
 
-今日も何の成果も得られていない、こんなで大丈夫？
 
 <!---
 Midori-Gift/Midori-Gift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
